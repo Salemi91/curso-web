@@ -1,0 +1,14 @@
+.fixed-abajo{
+position: absolute;
+bottom: 0px;
+}
+.responsivo{
+	width: 47%;
+	height: auto;
+}
+.pi{
+	font-family: "fontAwesome";
+}
+h1{
+	font-size: 1.0em;
+}
